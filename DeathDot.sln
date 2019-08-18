@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeathDot", "DeathDot\DeathDot.vcxproj", "{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|ARM.ActiveCfg = Debug|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|x64.ActiveCfg = Debug|x64
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|x64.Build.0 = Debug|x64
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Debug|x86.Build.0 = Debug|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|ARM.ActiveCfg = Release|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|ARM64.ActiveCfg = Release|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|x64.ActiveCfg = Release|x64
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|x64.Build.0 = Release|x64
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|x86.ActiveCfg = Release|Win32
+		{64CB3C0E-A3C0-48FB-8206-F3C42F15CBDD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADFFB783-858A-47E4-96A6-1386DEC4581F}
+	EndGlobalSection
+EndGlobal
